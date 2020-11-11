@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Assignment #2: Add TextView and follow the steps in the document -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#12C700"
+    android:textColor="#FFFFFF"
+    android:textSize="24sp"
+    android:text="@string/this_is_my_first_text_view"
+    android:layout_marginLeft="24dp"
+    android:layout_marginTop="16dp">
+
+</TextView>
